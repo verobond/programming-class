@@ -1,0 +1,42 @@
+/* CSS */
+/* 
+Website: My CSS Site v.1
+Author: VERONIKA BONDARENKO;
+*/
+
+body{
+	background: #E5DFFF;	
+	font-family: 'Baskerville', 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+	font-size: 22px;
+	text-align: center;
+}
+h1{
+	color:#79B229;
+	color: rgba(79,49,177);
+	font-family: 'Century Gothic', 'CenturyGothic', 'Gothic', sans-serif;
+	font-size: 40px;
+	text-align: center;
+}	
+h1:hover{background-color: magenta;
+}
+
+p{
+	color:#B22971;
+	font-family: "Comic Sans", georgia, "Times News Roman";
+	font-size: 22px;
+	text-align: center;
+}	
+hr{
+	border-color:#87FFF5;
+}
+
+#content{
+width: 500px;
+border-width: 3px;
+border-color: #000;
+border-style: solid;
+background-color: #D9F4C4;
+margin: 0 auto;
+padding: 20px;
+border-radius: 50px;
+}
