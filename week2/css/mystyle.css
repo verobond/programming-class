@@ -1,0 +1,44 @@
+/* CSS */
+/* 
+Website: My Books v.1
+Author: VERONIKA BONDARENKO;
+*/
+
+body{
+	background: #E4DBBF;	
+	font-family: 'Rockwell', 'Times New Roman', serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	letter-spacing: 0.3px;
+}
+
+h1{
+	color: #DC5B21;
+	font-family: 'Optima', 'Times News Roman', sans-serif;
+	font-size: 38px;
+	text-align: center;
+   text-shadow: 4px 5px black;
+   box-shadow: 5px 5px 5px 0px #DC5B21;
+}
+
+
+h4{
+	color: #DC5B21;
+	font-family: 'Optima', 'Times New Roman', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 4px 5px black;
+}		
+
+li{background: #70AB8F;	
+	color: 22403C;
+	font-family: 'Baskerville', 'Garamond', 'Times New Roman', serif;
+	font-size: 22px;
+	text-align: center;
+	
+}
+
+a:hover { 
+    color: #66FF89;
+}
