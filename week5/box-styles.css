@@ -1,0 +1,22 @@
+.box{
+	display: block;
+	width: 200px;
+	height: 200px;
+	border: 1px solid #000;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	float: right;
+}
+
+#blue{
+	background: blue;
+}
+
+#green{ 
+	background: green;
+	
+}
+
+#red {
+	background:red;
+}
